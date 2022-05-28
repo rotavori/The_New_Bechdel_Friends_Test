@@ -58,9 +58,14 @@ Project in digital humanities: a research to determine - does the sitcome tv sho
 
 **ביביליוגרפיה:**
 מבחן בקדל - https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%97%D7%9F_%D7%91%D7%A7%D7%93%D7%9C
+
 רקע על הסדרה "חברים" - https://he.wikipedia.org/wiki/%D7%97%D7%91%D7%A8%D7%99%D7%9D
+
 אתר Canva (עיצוב הגרפים) - https://www.canva.com
+
 קבצי CSV של תסריטי הפרקים של הסדרה - https://github.com/shilpibhattacharyya/Friends_Analysis
+
 
 נטע דרוקר - 313130049
 רותם תבורי - 206269516
+

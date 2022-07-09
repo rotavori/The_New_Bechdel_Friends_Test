@@ -61,7 +61,7 @@ Project in digital humanities: a research to determine - does the sitcome tv sho
 
 רקע על הסדרה "חברים" - https://he.wikipedia.org/wiki/%D7%97%D7%91%D7%A8%D7%99%D7%9D
 
-אתר Canva (עיצוב הגרפים) - https://www.canva.com
+אתר Canva (עיצוב הגרפים) - https://www.meta-chart.com/
 
 קבצי CSV של תסריטי הפרקים של הסדרה - https://github.com/shilpibhattacharyya/Friends_Analysis
 
